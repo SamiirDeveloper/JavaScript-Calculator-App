@@ -31,6 +31,7 @@ body {
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
     padding: 25px;
+    align-items: end;
 }
 
 button {
@@ -103,3 +104,4 @@ button:active {
     padding: 15px;
   }
 }
+
